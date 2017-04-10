@@ -1,0 +1,20 @@
+Name: Ribeye Steak
+Description: 20-oz juicy steak marinated in special sauce.
+Price: $29.99
+Image: ribeye.png
+Name: Spaghetti
+Description: A plate of delicious Spaghetti with meat sauce. 
+Price: $25.99
+Image: spaghetti.png
+Name: Hamburger
+Description: Old- fashioned hamburger. Thick, juicy and bursting with flavor! With mayo, mustard and ketchup!
+Price: $7.99
+Image: hamburger.png
+Name: Ceasar Salad
+Description: Featuring all of the quality ingredients you'd expect in this fan favorite, including crisp romaine lettuce, creamy Caesar dressing, herbed croutons and Parmesan cheese.
+Price: $10.99
+Image: ceasarsalad.png
+Name: Salmon
+Description: Filet grilled to perfection and topped with garlic-herb butter. Served with parmesan-garlic broccoli.
+Price: $27.99
+Image: salmon.png
